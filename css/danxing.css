@@ -1,0 +1,9 @@
+html body .box header, html body .box footer { background: blue; width: 100%; height: 50px; }
+
+html, html body, html body .box { width: 100%; height: 100%; }
+html body, html body .box body { margin: 0; }
+html body .box { display: flex; flex-direction: column; }
+html body .box section { overflow-y: auto; width: 100%; flex: 1; }
+html body .box ul { padding: 0; margin: 0; list-style: none; }
+
+/*# sourceMappingURL=danxing.css.map */

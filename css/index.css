@@ -1,0 +1,7 @@
+.box { display: flex; }
+.box div { background: #ccc; margin: 5px; }
+.box div:nth-child(1) { width: 200px; }
+.box div:nth-child(2) { flex-grow: 1; flex-basis: 50%; }
+.box div:nth-child(3) { flex-grow: 1; flex-basis: 50%; }
+
+/*# sourceMappingURL=index.css.map */
